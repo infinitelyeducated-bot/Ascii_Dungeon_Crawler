@@ -6,7 +6,7 @@ This is the **single-file edition** of [PixelBear's Dungeon Crawler](https://git
 
 ## Play
 
-- Double-click **`Run_Game.cmd`**, or open `Ascii_Dungeon_Crawler.html` directly in a browser.
+- Double-click **`Run_Game_Ascii_Dungeon_Crawler.cmd`**, or open `Ascii_Dungeon_Crawler.html` directly in a browser.
 - Online: https://infinitelyeducated-bot.github.io/Ascii_Dungeon_Crawler/Ascii_Dungeon_Crawler.html
 
 Press **Esc** in the game for the pause menu, which includes a full **Game Guide** (controls, map key, classes, combat system, bestiary) with a Print button.
